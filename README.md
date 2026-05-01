@@ -10,8 +10,8 @@ All experiments were conducted using Google Colab.
 ## Repository Structure
 
 
-├── DATE_LM_Project.ipynb # Main Colab notebook containing all experiments
-├── README.md # Instructions to run the project
+DATE_LM_Project.ipynb # Main Colab notebook containing all experiments
+README.md # Instructions to run the project
 
 
 ---
