@@ -1,7 +1,7 @@
 # Intro_to_LLMs_Project_DATE-LM
 
 ## Overview
-This project explores data attribution methods using the DATE-LM framework. The experiments evaluate different techniques across tasks such as toxicity filtering, factual attribution, and training data selection.
+This project (done by Quynh Nhu Dang and Luisa De Mello) explores data attribution methods using the DATE-LM framework. The experiments evaluate different techniques across tasks such as toxicity filtering, factual attribution, and training data selection.
 
 All experiments were conducted using Google Colab.
 
@@ -42,10 +42,6 @@ All experiments were conducted using Google Colab.
 
 ---
 
-## Authors
-
-- Quynh Nhu Dang
-- Luisa De Mello 
 
 ---
 
