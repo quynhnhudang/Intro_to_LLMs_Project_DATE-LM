@@ -42,9 +42,6 @@ All experiments were conducted using Google Colab.
 
 ---
 
-
----
-
 ## Acknowledgments
 
 This project is based on the DATE-LM framework for evaluating data attribution in large language models.
